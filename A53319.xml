@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ode, by way of elegy, on the universally lamented death of the incomparable Mr. Dryden by Alexander Oldys.</title>
+            <author>Oldys, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53319</idno>
+            <idno type="STC">Wing O267</idno>
+            <idno type="STC">ESTC R21894</idno>
+            <idno type="EEBO-CITATION">12362186</idno>
+            <idno type="OCLC">ocm 12362186</idno>
+            <idno type="VID">60272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60272)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 218:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ode, by way of elegy, on the universally lamented death of the incomparable Mr. Dryden by Alexander Oldys.</title>
+                  <author>Oldys, Alexander.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by most booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dryden, John, 1631-1700 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60272:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:60272:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>AN ODE, By way of ELEGY, ON The univerſally lamented Death Of the incomparable M<hi rend="sup">R.</hi> DRYDEN.</p>
+            <q>
+               <l>Quis deſiderio ſit pudor aut modus</l>
+               <l>Tam Chari Capitis? Praecipe lugubres</l>
+               <l>Cantus Melpomene—</l>
+               <l>Quando ullum inveniam parem?</l>
+               <l>Multis ille bonis flebilis occidit.</l>
+               <bibl>
+                  <hi>Horat. lib 1. ode 25.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>By</hi> Alexander Oldys.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by moſt Bookſellers, 1700.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:60272:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:60272:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To my worthy Friend Mr. James Dixon.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE many and great obligations, which you have been pleas'd to lay on me, give me the greateſt con<g ref="char:EOLhyphen"/>fuſion imaginable, at preſent, when I conſider that I am ſueing for a Greater Favour than <hi>All,</hi> in being the liberty to praefix your Name to theſe Lines; which, tho' I am ſen<g ref="char:EOLhyphen"/>ſible they will be Condemn'd by <hi>The Great,</hi> yet the ſhame of that can no way affect you, when I do you the juſtice to aſſure the Town, that it is contrary to your knowledge, that you are becom my Patron: ſo your Nicer ſenſe cannot be accountable in the leaſt; for you had no hand in it, and you may plead
+<q>
+                  <l>—Quae non fecimus Ipſi</l>
+                  <l>Vix ea noſtra voco —</l>
+               </q> Nay, you were not Guilty of ſo much as of the knowledge of This my <hi>wicked Intentions;</hi> wicked, I mean if it ſhould of<g ref="char:EOLhyphen"/>fend <hi>you</hi> and <hi>my other Friends;</hi> who need not Bluſh for me, Since I have <hi>already</hi> ſuch <hi>a terrour upon my Conſcience</hi> for this <hi>Aggreſſion,</hi> as is, I think, a puniſhment, in ſom meaſure, Equal to my Crime, and all that I can urge in my defence, is that it was pure Reſpect to the dear memory of This Great Man, to whom I had the honour to be known, that <hi>provok'd,</hi> or, let me rather ſay— <hi>oblig'd</hi> me to Ex<g ref="char:EOLhyphen"/>poſe my ſelf on this occaſion. I never attempted any thing in
+<pb facs="tcp:60272:3"/>
+               <!-- PDF PAGE 3 -->this meaſure for the Publick before; and I doubt not that I ſhall do yet ſeverer penance for it, in the cenſures of our <hi>Awful Wits,</hi> which I already fear; but <hi>your</hi> Judgement is ſtill more dreaded than All, by</p>
+            <closer>
+               <salute>Worthy Sir, </salute>
+               <signed>
+                  <hi>Your moſt oblig'd, obedient and humble Servant</hi> Alexander Oldys.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:60272:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>AN ODE, On the Death of M<hi rend="sup">R.</hi> DRYDEN.</head>
+            <lg>
+               <l>ON a ſoft Bank of Camomel I ſate,</l>
+               <l>Or'ſhaded by two mournful Yews;</l>
+               <l>(Doubtleſs, it was the will of Fate</l>
+               <l>I this retreat ſhou'd chooſe)</l>
+               <l>Where on <hi>delicious Poetry</hi> I fed</l>
+               <l>Amazing Thoughts chil'd all my blood,</l>
+               <l>And almoſt ſtopt <hi>the vital Floud;</hi>
+               </l>
+               <l>As <hi>Dryden</hi>'s ſacred Verſe I read.</l>
+               <l>Whil'ſt Killing Raptures ſeiz'd my head,</l>
+               <l>I ſhook, as If I had foreknow'n</l>
+               <l>What <hi>All-Commanding Fate</hi> had don;</l>
+               <l>What for our <hi>Souv'reign Dryden</hi> had deſign'd,</l>
+               <l>Till Sleep o'r whelm'd my <hi>Brain</hi> as Sorrow had my <hi>mind;</hi>
+               </l>
+               <l>To think that <hi>All the great,</hi> ev'n <hi>He</hi> muſt dy,</l>
+               <l>And <hi>Here, in Fame alone,</hi> have Immortality.</l>
+               <l>When, in my dream <hi>The Fatal Muſe</hi>
+               </l>
+               <l>With Hair diſhevell'd and in tears,</l>
+               <l>Melpomene appears</l>
+               <l>Upon my Throbbing heart her hand ſhe lay'd.</l>
+               <l>Her hand as Cold as Death; and thus ſhe ſaid,</l>
+               <l>Leaſt of my Care, be calm'd! No more Juſt Heav'n accuſe!</l>
+            </lg>
+            <pb n="2" facs="tcp:60272:4"/>
+            <!-- PDF PAGE 4 -->
+            <lg>
+               <head>II.</head>
+               <l>Eternal Fate has ſaid:— He muſt Remove;</l>
+               <l>The Bards Triumphant wait for him Above.</l>
+               <l>To Everlaſting Day and Bleſt Abodes</l>
+               <l>(The ſeats of <hi>Poets</hi> and of Gods)</l>
+               <l>He's gon, to fill the Throne</l>
+               <l>Which None cou'd fill but He Alone;</l>
+               <l>The Glorious Throne for Him prepar'd;</l>
+               <l>Of Glorious Acts The Glorious, Juſt Reward.</l>
+               <l>See, ſee, As He Aſcends on high,</l>
+               <l>The ſacred Bards attending in the Sky!</l>
+               <l>So <hi>low</hi> do they Deſcend</l>
+               <l>To meet Their <hi>Now</hi> Immortal Friend!</l>
+               <l>Immortal There Above and Here Below,</l>
+               <l>As long as Men ſhall Wit and <hi>Engliſh</hi> know</l>
+               <l>
+                  <hi>Th' unequal'd</hi> Dryden <hi>muſt</hi> be ſo,</l>
+               <l>
+                  <hi>Immortal</hi> in his <hi>Verſe,</hi> in <hi>Verſe unequal'd too.</hi>
+               </l>
+               <l>She ſaid,— Then diſappear'd; when I</l>
+               <l>Cou'd plainly ſee all that was don on <hi>High.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>I ſaw <hi>Above</hi> an univerſal Joy,</l>
+               <l>Perfect, without alloy;</l>
+               <l>(ſo Great as ne'r till then had been,</l>
+               <l>Since the ſweet <hi>Waller</hi> Enter'd in)</l>
+               <l>When all that ſacred Company,</l>
+               <l>Brought the triumphant <hi>Bard</hi> from <hi>Ours</hi> to Heaven's great Jubile.</l>
+               <l>That was the' occaſion of <hi>his Happineſs,</hi>
+               </l>
+               <l>And of <hi>our Sorrows</hi> (ſurely) that the Cauſe,</l>
+               <l>Call'd hence <hi>Heav'ns Monarchs praiſe</hi> to help ex<g ref="char:EOLhyphen"/>preſs</l>
+               <l>And to receive for that his <hi>Own</hi> deſerv'd applauſe.</l>
+               <pb n="3" facs="tcp:60272:4"/>
+               <!-- PDF PAGE 4 -->
+               <l>There wanted ſtill one in the Heav'nly Quire,</l>
+               <l>
+                  <hi>Dryden</hi> Alone was their Deſire,</l>
+               <l>Whom for the ſacred ſong <hi>th' Almighty</hi> did Inſpire.</l>
+               <l>'Twas Pitty to <hi>
+                     <g ref="char:V">Ʋ</g>s</hi> that ſo long delay'd</l>
+               <l>His Bleſt Tranſlation to Eternal Light;</l>
+               <l>Or, otherwiſe may we not be Afraid</l>
+               <l>'Twas for the ſins of ſom who durſt preſume to <hi>Write?</hi>
+               </l>
+               <l>VVho durſt in <hi>Verſe,</hi> in <hi>Sacred Poetry,</hi>
+               </l>
+               <l>Ev'n Heav'n's own deſign bely,</l>
+               <l>And damn themſelves with utmoſt Induſtry!</l>
+               <l>For This may we not dread</l>
+               <l>The mighty Prophet's taken from our head?</l>
+               <l>And tho the fate of theſe I fear,</l>
+               <l>I in Reſpect muſt venture here.</l>
+               <l>A Long and Racking VVar was ſent,</l>
+               <l>Of Common Sins, a Common Puniſhment;</l>
+               <l>To the unthinking Crowd the only Curſe;</l>
+               <l>Who feel no Loſs but in their Purſe:</l>
+               <l>But (Ah!) what Loſs can <hi>now</hi> be worſe?</l>
+               <l>The Mighty Pan ha's left our mournful ſhoar;</l>
+               <l>The Mighty Pan is Gon, <hi>Dryden</hi> is Here no more.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>When to the Bleſt, Bright Region he was com,</l>
+               <l>The Vulgar Angels Gaz'd, and made him room:</l>
+               <l>Each Laureat Monarch welcom's him on high,</l>
+               <l>And to Embrace him all together fly:</l>
+               <l>Then ſtrait the Happy Gueſt is ſhow'n</l>
+               <l>To his Bright and Lofty Throne,</l>
+               <l>Inferiour there to None.</l>
+               <l>A Crown beſet with litle Suns, whoſe Rays</l>
+               <l>Shoot forth in foliages reſembling Bays,</l>
+               <pb n="4" facs="tcp:60272:5"/>
+               <!-- PDF PAGE 5 -->
+               <l>Now on his Head they place:</l>
+               <l>Then round him all the Sacred Band</l>
+               <l>Lowdly Congratulating ſtand:</l>
+               <l>When, after Silence made,</l>
+               <l>Thus the Sweeteſt VValler ſaid</l>
+               <l>Well haſt Thou merited, <hi>Triumphant Bard!</hi>
+               </l>
+               <l>For, once I knew Thee <hi>Militant Below,</hi>
+               </l>
+               <l>VVhen I my ſelf was ſo;</l>
+               <l>Dang'rous thy Poſt, the Combat Fierce and Hard,</l>
+               <l>Ignorance and Rebellion ſtill Thy Foe</l>
+               <l>But for thoſe litle pains ſee now the Great Reward!</l>
+               <l>Mack-Fleeknoe and Achitophel</l>
+               <l>Can now no more diſturb thy peace,</l>
+               <l>Thy Labours paſt, thy Endleſs joys encreaſe,</l>
+               <l>The more Thou haſt endur'd the more Thou do'ſt Excel.</l>
+               <l>And for the Laurels ſnatch' from Thee Below</l>
+               <l>Thou wear'ſt an Everlaſting Crown upon thy Hallow'd Brow.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>The Bard who next the New-born ſaint Addreſt</l>
+               <l>VVas Milton, for his <hi>Wonderous</hi> Poem Bleſt;</l>
+               <l>VVho ſtrangely found, in his <hi>Loſt Par'diſe,</hi> Reſt.</l>
+               <l>Great Bard (ſaid he) 'twas Verſe alone</l>
+               <l>Did for my Hideous Crime attone,</l>
+               <l>Defending once the worſt Rebellion.</l>
+               <l>A Double ſhare of Bliſs belongs to Thee,</l>
+               <l>For thy Rich Verſe and thy firm Loyalty,</l>
+               <l>Som of my <hi>Harſh,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ncouth</hi> Points do ow</l>
+               <l>To Thee a Tuneful Cadance ſtill Below.</l>
+               <l>
+                  <hi>Thine</hi> was, <hi>Indeed, The State of Innocence,</hi>
+               </l>
+               <l>Mine of offence,</l>
+               <pb n="8" facs="tcp:60272:5"/>
+               <!-- PDF PAGE 5 -->
+               <l>With ſtudy'd Treaſon and ſelf-intreſt ſtaind;</l>
+               <l>Till <hi>Par'diſe Loſt</hi> wrought <hi>Paradiſe Regain'd.</hi>
+               </l>
+               <l>He ſaid: — When thus our <hi>Engliſh Abraham,</hi>
+               </l>
+               <l>(In <hi>Heaven</hi> the ſecond of that Name,</l>
+               <l>
+                  <hi>Cowley</hi> as Glorious there as Sacred here in Fame,)</l>
+               <l>Welcom, <hi>Aleides,</hi> to this Happy Place!</l>
+               <l>Our Wiſh, and our Long Expectation here,</l>
+               <l>Makes thee to us more Dear;</l>
+               <l>Thou great deſtroyer of that Monſtrous Race,</l>
+               <l>Which our <hi>ſad, former</hi> ſeat did Harraſs and Diſgrace,</l>
+               <l>Be Bleſt and Welcom'd with our Praiſe,</l>
+               <l>Thy Great, <hi>Herculean</hi> Labours don,</l>
+               <l>And all the Courſes of thy <hi>Zodiac</hi> run;</l>
+               <l>Shine here to us a more Illuſtrious Sun!</l>
+               <l>But ſee! <hi>Thy Brethren Gods in Poetry,</hi>
+               </l>
+               <l>
+                  <hi>The whole Great Race Divine,</hi>
+               </l>
+               <l>Ready in thy Applauſe to joyn,</l>
+               <l>Who will Supply what is Defect in me.</l>
+            </lg>
+            <lg>
+               <head>(6)</head>
+               <l>
+                  <hi>Rocheſter</hi> once on Earth a Prodigy,</l>
+               <l>A happy Convert now on High,</l>
+               <l>Here begins his Wond'rous Laies,</l>
+               <l>In the Sainted Poet's Praiſe.</l>
+               <l>Fathomleſs <hi>Buckingham,</hi> ſmooth <hi>Orrery,</hi>
+               </l>
+               <l>The Witty <hi>D' Avenant, Denham, Suckling</hi> too,</l>
+               <l>
+                  <hi>Shakeſpear,</hi> Natures <hi>Kneller,</hi> who</l>
+               <l>
+                  <hi>Natures</hi> Picture likeſt drew,</l>
+               <l>Each in their turn his Praiſe purſue.</l>
+               <l>His Song Elab'rate <hi>Johnſon</hi> next do's try,</l>
+               <l>On Earth unus'd to Elogy:</l>
+               <l>
+                  <hi>Beaument</hi> and <hi>Fletcher</hi> Sing together ſtill,</l>
+               <l>And with their Tuneful Notes the Arched Palace fill:</l>
+               <pb n="6" facs="tcp:60272:6"/>
+               <!-- PDF PAGE 6 -->
+               <l>The <hi>Noble Patron Poet</hi> now do's try,</l>
+               <l>His <hi>Wondrous Spenſer</hi> to outvy:</l>
+               <l>
+                  <hi>Drayton</hi> did next our <hi>Sacred Bard</hi> Addreſs,</l>
+               <l>And Sung <hi>Above</hi> with wonderful ſucceſs.</l>
+               <l>Our <hi>Engliſh Ennius,</hi> He who gave,</l>
+               <l>To <hi>The Great Bard</hi> kind welcom to his Grave,</l>
+               <l>
+                  <hi>Chaucer,</hi> the <hi>Mighty'ſt Bard</hi> of yor'e,</l>
+               <l>Whoſe Verſe cou'd Mirth, to ſaddeſt Souls reſtore,</l>
+               <l>Careſs'd him next whil'ſt his delighted Eye,</l>
+               <l>Expreſs'd his Love, and thus his Tongue his Joy,</l>
+               <l>Was I, when erſt Below (ſaid he)</l>
+               <l>In hopes ſo Great a Bard to ſee:</l>
+               <l>As <hi>Thou my Son,</hi> Adopted into <hi>me,</hi>
+               </l>
+               <l>And all this <hi>Godlike Race,</hi> ſome equal ev'n to Thee!</l>
+               <l>O! tis enough. — Here ſoft <hi>Orinda</hi> came,</l>
+               <l>And Spritely <hi>Afra,</hi> Muſes Both on Earth;</l>
+               <l>Both Burn'd here with a Bright Poetic flame,</l>
+               <l>Which to their happineſs <hi>above</hi> gave birth;</l>
+               <l>Their Charming Songs, his entertainment cloſe,</l>
+               <l>The <hi>mighty Bard</hi> then ſmiling, Bow'd and 'roſe.</l>
+            </lg>
+            <lg>
+               <head>(7)</head>
+               <l>Strait from his head, each takes his Laurel'd Crown,</l>
+               <l>And on the Golden Pavment caſts it down:</l>
+               <l>All proſtrate fall, before <hi>Heavens High Imperial Throne;</hi>
+               </l>
+               <l>When the <hi>New Saint</hi> begins his ſong Alone:</l>
+               <l>Won'drous even <hi>there,</hi> It was Confeſt,</l>
+               <l>Scarce to be Equal'd by the Reſt:</l>
+               <l>
+                  <hi>Herbert</hi> nor <hi>Craſhaw,</hi> tho on earth <hi>Divine,</hi>
+               </l>
+               <l>So ſweetly cou'd their Numbers Joyn!</l>
+               <l>When (Lo!) the Light of twenty thouſands Suns,</l>
+               <l>All in <hi>one</hi> Body, ſhining <hi>All</hi> at once,</l>
+               <pb n="9" facs="tcp:60272:6"/>
+               <!-- PDF PAGE 6 -->
+               <l>Darts from Th' Imperial to this Lower Court;</l>
+               <l>A Light which <hi>They</hi> but hardly cou'd ſupport!</l>
+               <l>Then the <hi>Great Anthem</hi> was begun.</l>
+               <l>Wich all <hi>the Hallowd Bards</hi> together ſing;</l>
+               <l>And by no Choir of angels is out done,</l>
+               <l>But by <hi>The Great Seraphic Choir Alone,</hi>
+               </l>
+               <l>That day and night ſurround <hi>The Awful Throne</hi>
+               </l>
+               <l>Of <hi>Heavens Eternal King:</hi>
+               </l>
+               <l>Even <hi>They Themſelves</hi> did the Great Chorus fill,</l>
+               <l>And brought the Grateful ſounds to <hi>Heav'n's High Holy'ſt Hill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>(8)</head>
+               <l>My Soul ſhook with <hi>the Sacred Harmony,</hi>
+               </l>
+               <l>Which ſoon alarm'd my heart;</l>
+               <l>I fancy'd I was falling from on <hi>High</hi>
+               </l>
+               <l>And waken'd with a ſtart;</l>
+               <l>
+                  <hi>Wak'd</hi> (ſaid I?) ſurely no; I did not ſleep;</l>
+               <l>Can they be Dreams which ſuch Impreſſions make?</l>
+               <l>My ſoul do's ſtill the Bleſt Idea's keep;</l>
+               <l>And ſtill (methinks,) I ſee 'em tho <hi>Awake!</hi>
+               </l>
+               <l>The other thrones too, which, <hi>tho vacant,</hi> ſhone</l>
+               <l>With Greater Glory then the ſun,</l>
+               <l>Come freſh into my mind;</l>
+               <l>Which once will loſe their luſtre by their <hi>Bards</hi> outdon.</l>
+               <l>VVhen fill'd with thoſe for whom they are deſign'd;</l>
+               <l>Upon their fronts I ſaw the Glitt'ring names,</l>
+               <l>All written in Coeleſtial flames.</l>
+               <l>For <hi>Dorſet</hi> what a Pallace did I ſee!</l>
+               <l>For <hi>Montague!</hi> And what for <hi>Normanby!</hi>
+               </l>
+               <l>VVhat Glorys wait for <hi>Wycheryl!</hi>
+               </l>
+               <l>For <hi>Congreve, Southern, Tate, Garth, Addiſon?</hi>
+               </l>
+               <l>For <hi>Stepney, Prior</hi> and for <hi>Dennis</hi> too;</l>
+               <l>VVhat Thrones are void, what Joys prepard and due?</l>
+               <pb n="8" facs="tcp:60272:7"/>
+               <!-- PDF PAGE 7 -->
+               <l>The <hi>Pleaſant Dear Companion Cheek</hi>
+               </l>
+               <l>(VVhom all the Great altho <hi>at Midnight,</hi> ſeek)</l>
+               <l>His Glorious wreath muſt wear and endleſs Joys perſue.</l>
+               <l>And for <hi>Motteux, my Gallic Friend,</hi>
+               </l>
+               <l>The like Triumphant Laurels wait;</l>
+               <l>Tho Heav'n, I hope, will ſend it very late,</l>
+               <l>E'r' <hi>They</hi> or <hi>He</hi> to their Bleſt Seats aſcend.</l>
+               <l>Tis in <hi>Their</hi> Verſe, next <hi>His,</hi> that He muſt Live;</l>
+               <l>Next His, <hi>Their</hi> Lines Eternal Fame can give,</l>
+               <l>Then all the Happineſs on Earth I know</l>
+               <l>Is, that ſuch Godlike Men as they are with us ſtill be<g ref="char:EOLhyphen"/>low.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:60272:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+         </div>
+      </body>
+   </text>
+</TEI>
